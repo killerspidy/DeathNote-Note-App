@@ -10,3 +10,6 @@ open terminal and type
 npm start
 
 also you have to install Expo go in your mobile to test the app or you can setup android emulater 
+
+
+https://github.com/user-attachments/assets/0cb3999b-955f-4134-be1a-ed2bd16742fc
