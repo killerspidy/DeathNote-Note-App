@@ -13,3 +13,6 @@ also you have to install Expo go in your mobile to test the app or you can setup
 
 
 https://github.com/user-attachments/assets/0cb3999b-955f-4134-be1a-ed2bd16742fc
+
+https://github.com/user-attachments/assets/d00d9174-1e2b-46e8-84c6-569e5d998215
+
